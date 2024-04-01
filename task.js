@@ -6,7 +6,7 @@ let students = [
         age: 24,
         email: "muradofftehmez01@gmail.com",
         Phone: "+994 60 553 69 90",
-        group_id: 33,
+        group_id: 85,
     },
     {
         id: 2,
@@ -15,7 +15,7 @@ let students = [
         age: 19,
         email: "semaabdullazade@gmail.com",
         Phone: "+994 99 999 99 99",
-        group_id: 44,
+        group_id: 85,
     },
     {
         id: 3,
@@ -24,7 +24,7 @@ let students = [
         age: 27,
         email: "Sevinczulfigarli@gmail.com",
         Phone: "+994 72 772 72 72",
-        group_id: 33,
+        group_id: 75,
     },
     {
         id: 4,
@@ -33,7 +33,7 @@ let students = [
         age: 20,
         email: "babayevnail@gmail.com",
         Phone: "+994 55 555 55 55",
-        group_id: 44,
+        group_id: 75,
     },
     {
         id: 5,
@@ -42,22 +42,18 @@ let students = [
         age: 27,
         email: "quluyevnurlan@gmail.com",
         Phone: "+994 51 212 12 12",
-        group_id: 33,
+        group_id: 75,
     },
 ];
 
 let groups = [
     {
-        id: 13,
-        name: "Coders Caravan",
-    },
-    {
         id: 75,
-        name: "Coders Nakhchivan",
+        name: "Naxcivan",
     },
     {
         id: 85,
-        name: "Coders Nakhchivan",
+        name: "Nakhchivan",
     },
 ];
 
