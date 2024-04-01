@@ -67,9 +67,3 @@ students.forEach(student => {
     console.log(`${student.name} ${student.surname} - Diqqət! Ortalamanız 90-dan aşağıdır.`);
   }
 });
-
-// 1. school obyekti yaradılır.
-// 2. students arrayı yaradılır və içərisində 3 tələbə obyekti əlavə edilir. Hər tələbə obyektində hobbilər, xüsusiyyətlər və qiymətlər siyahısı var.
-// 3. totalGrades dəyişəni bütün tələbələrin qiymətlərinin cəmini hesablayır.
-// 4. averageGrade dəyişəni bütün tələbələrin ortalama qiymətini hesablayır.
-// 5. Hər tələbə üçün ortalama qiymət hesablanır və əgər qiymət 90-dan aşağıdırsa, tələbənin ad və soyadı ilə birlikdə xəbərdarlıq mesajı çıxarılır.
